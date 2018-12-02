@@ -27,7 +27,7 @@
     """,
     'author': "Mathias Colpaert, Odoo Community Association (OCA)",
     'category': "construction",
-    'version': '8.0.0.1.0',
+    'version': '11.0.0',
     'depends': ['crm', 'base_construction_architect'],
     'data': ['views.xml'],
     'installable': False,
